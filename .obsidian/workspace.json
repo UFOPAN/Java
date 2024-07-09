@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,12 +152,12 @@
   "active": "ec1c03ffe5adf726",
   "lastOpenFiles": [
     "1-Java基础概念/1.7 面向对象 - 多态.md",
+    "1-Java基础概念/1.8 面向对象 - 封装.md",
+    "1-Java基础概念/1.9 面向对象 - 实例.md",
     "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.5 方法.md",
-    "1-Java基础概念/1.9 面向对象 - 实例.md",
     "Java/README.md",
     "Java",
-    "1-Java基础概念/1.8 面向对象 - 封装.md",
     "- 查阅 -/函数/用到的函数.md",
     "- 附件 -/1.附件/String的内存模型.png",
     "- 附件 -/1.附件/异常捕获.png",
