@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 实例.md",
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e3ca0e35c858935a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 实例.md",
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 实例.md",
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 实例.md"
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md"
               }
             }
           }
@@ -149,13 +157,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d73a2836ab05b864",
+  "active": "ec1c03ffe5adf726",
   "lastOpenFiles": [
+    "1-Java基础概念/1.7 面向对象 - 多态.md",
+    "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
+    "-附件-/1.附件/继承关系.png",
     "1-Java基础概念/1.9 面向对象 - 实例.md",
     "README.md",
-    "1-Java基础概念/1.6 面向对象 - 类.md",
-    "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.5 方法.md",
     "Java/README.md",
     "Java",
@@ -181,7 +190,6 @@
     "- 查阅 -/0-资料网站/资料网站.md",
     "- 查阅 -/题目/基础题目.md",
     "-附件-/1.附件/无标题.png",
-    "-附件-/1.附件/继承关系.png",
     "-附件-/1.附件/内存模型 1.png",
     "-附件-/1.附件/内存模型.png",
     "-附件-/1.附件/面向对象.png",
@@ -196,7 +204,6 @@
     "- 查阅 -",
     "Excalidraw/Drawing 2024-07-02 13.40.42.excalidraw.md",
     "1-Java基础概念",
-    "python 20题.md",
-    "笔记/基本方法.md"
+    "python 20题.md"
   ]
 }
