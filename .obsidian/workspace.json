@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.10 正则表达式.md",
-                "mode": "source",
+                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -165,9 +165,9 @@
   },
   "active": "01be6897bda2b3ab",
   "lastOpenFiles": [
-    "1-Java基础概念/1.11 日期类.md",
-    "1-Java基础概念/1.10 正则表达式.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
+    "1-Java基础概念/1.10 正则表达式.md",
+    "1-Java基础概念/1.11 日期类.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "-查阅-/文件/LeetCode题解（java语言实现）.pdf",
