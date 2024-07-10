@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -149,7 +150,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0b6b279ad0bdf94f",
+  "active": "d73a2836ab05b864",
   "lastOpenFiles": [
     "1-Java基础概念/1.10 正则表达式.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
