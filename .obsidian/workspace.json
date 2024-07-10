@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
+                "file": "1-Java基础概念/1.6 面向对象 - 类.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
+                "file": "1-Java基础概念/1.6 面向对象 - 类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
+                "file": "1-Java基础概念/1.6 面向对象 - 类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.8 面向对象 - 封装.md"
+                "file": "1-Java基础概念/1.6 面向对象 - 类.md"
               }
             }
           }
@@ -159,22 +159,22 @@
   },
   "active": "ec1c03ffe5adf726",
   "lastOpenFiles": [
-    "1-Java基础概念/1.7 面向对象 - 多态.md",
+    "1-Java基础概念/1.9 面向对象 - 实例.md",
+    "1-Java基础概念/1.1 数据类型.md",
+    "1-Java基础概念/1.2 操作符.md",
+    "1-Java基础概念/1.3 结构控制.md",
+    "1-Java基础概念/1.4 数组.md",
+    "1-Java基础概念/1.5 方法.md",
     "1-Java基础概念/1.6 面向对象 - 类.md",
+    "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "-附件-/1.附件/继承关系.png",
-    "1-Java基础概念/1.9 面向对象 - 实例.md",
     "README.md",
-    "1-Java基础概念/1.5 方法.md",
     "Java/README.md",
     "Java",
     "- 查阅 -/函数/用到的函数.md",
     "-附件-/1.附件/String的内存模型.png",
     "-附件-/1.附件/异常捕获.png",
-    "1-Java基础概念/1.1 数据类型.md",
-    "1-Java基础概念/1.2 操作符.md",
-    "1-Java基础概念/1.3 结构控制.md",
-    "1-Java基础概念/1.4 数组.md",
     "- 查阅 -/零散知识/正则表达式.md",
     "1-Java基础概念/Drawing 2024-07-09 12.57.36.excalidraw.md",
     "未命名.md",
