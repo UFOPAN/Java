@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -157,10 +158,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ec1c03ffe5adf726",
+  "active": "d73a2836ab05b864",
   "lastOpenFiles": [
-    "1-Java基础概念/1.8 面向对象 - 封装.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
+    "1-Java基础概念/1.8 面向对象 - 封装.md",
     "1-Java基础概念/1.9 面向对象 - 实例.md",
     "-查阅-/文件/LeetCode题解（java语言实现）.pdf",
     "-查阅-/文件/Java基础核心总结.pdf",
