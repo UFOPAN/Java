@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "- 附件 -/1.附件",
+  "attachmentFolderPath": "-附件-/1.附件",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
@@ -7,5 +7,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showRibbon": false
+  "showRibbon": false,
+  "alwaysUpdateLinks": true
 }
