@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.10 正则表达式.md",
+                "file": "1-Java基础概念/1.7 面向对象 - 多态.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instance",
+                "query": "接口",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.10 正则表达式.md",
+                "file": "1-Java基础概念/1.7 面向对象 - 多态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.10 正则表达式.md",
+                "file": "1-Java基础概念/1.7 面向对象 - 多态.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.10 正则表达式.md"
+                "file": "1-Java基础概念/1.7 面向对象 - 多态.md"
               }
             }
           }
@@ -150,16 +149,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0b6b279ad0bdf94f",
+  "active": "d73a2836ab05b864",
   "lastOpenFiles": [
-    "1-Java基础概念/1.10 正则表达式.md",
+    "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
+    "1-Java基础概念/1.10 正则表达式.md",
     "1-Java基础概念/1.11 日期类.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "-查阅-/文件/LeetCode题解（java语言实现）.pdf",
     "-查阅-/文件/Java基础核心总结.pdf",
-    "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.1 数据类型.md",
     "1-Java基础概念/1.2 操作符.md",
     "1-Java基础概念/1.3 结构控制.md",
