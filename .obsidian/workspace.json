@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md",
-                "mode": "preview",
+                "file": "1-Java基础概念/1.10 正则表达式.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md",
+                "file": "1-Java基础概念/1.10 正则表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md",
+                "file": "1-Java基础概念/1.10 正则表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md"
+                "file": "1-Java基础概念/1.10 正则表达式.md"
               }
             }
           }
@@ -148,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +163,10 @@
   },
   "active": "df6d4d7bfa45e890",
   "lastOpenFiles": [
+    "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
     "1-Java基础概念/1.10 正则表达式.md",
     "1-Java基础概念/1.4 数组.md",
-    "1-Java基础概念/1.11 常用类.md",
     "-查阅-/函数/用到的函数.md",
     "-查阅-/函数/Java常见方法.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
