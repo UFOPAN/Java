@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "1-Java基础概念/1.11 常用类.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,12 +164,12 @@
   },
   "active": "df6d4d7bfa45e890",
   "lastOpenFiles": [
+    "1-Java基础概念/1.10 正则表达式.md",
+    "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
-    "1-Java基础概念/1.10 正则表达式.md",
-    "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/1.4 数组.md",
     "-查阅-/函数/用到的函数.md",
     "-查阅-/函数/Java常见方法.md",
