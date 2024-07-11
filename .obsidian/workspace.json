@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-查阅-/函数/用到的函数.md",
-                "mode": "preview",
+                "file": "1-Java基础概念/1.11 常用类.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-查阅-/函数/用到的函数.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-查阅-/函数/用到的函数.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-查阅-/函数/用到的函数.md"
+                "file": "1-Java基础概念/1.11 常用类.md"
               }
             }
           }
@@ -152,8 +151,8 @@
   },
   "active": "0b6b279ad0bdf94f",
   "lastOpenFiles": [
-    "-查阅-/函数/Java常见方法.md",
     "-查阅-/函数/用到的函数.md",
+    "-查阅-/函数/Java常见方法.md",
     "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/1.10 正则表达式.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
