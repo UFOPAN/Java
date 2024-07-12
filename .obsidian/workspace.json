@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -150,7 +150,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d73a2836ab05b864",
+  "active": "d120b83f0835acb9",
   "lastOpenFiles": [
     "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/1.10 正则表达式.md",
