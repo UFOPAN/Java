@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/草稿纸.md",
+                "file": "1-Java基础概念/1.12 文件类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/草稿纸.md",
+                "file": "1-Java基础概念/1.12 文件类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/草稿纸.md"
+                "file": "1-Java基础概念/1.12 文件类.md"
               }
             }
           }
@@ -174,7 +173,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0cc9e1080869a89a",
+  "active": "2e0f61d3c5f6c7f0",
   "lastOpenFiles": [
     "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/草稿纸.md",
