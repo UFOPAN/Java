@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3407136c257c80d3",
+        "id": "e997a1fedceb102a",
         "type": "tabs",
         "children": [
           {
-            "id": "44a98ca610a4b1f8",
+            "id": "2e0f61d3c5f6c7f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -150,7 +149,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "44a98ca610a4b1f8",
+  "active": "2e0f61d3c5f6c7f0",
   "lastOpenFiles": [
     "1-Java基础概念/1.12 文件类.md",
     "1-Java基础概念/1.11 常用类.md",
