@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6630d0aa4b77089b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Java基础概念/1.13 线程.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿纸.md",
+                "file": "1-Java基础概念/1.13 线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿纸.md",
+                "file": "1-Java基础概念/1.13 线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿纸.md"
+                "file": "1-Java基础概念/1.13 线程.md"
               }
             }
           }
@@ -150,10 +163,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9b1cb6699848960c",
+  "active": "6630d0aa4b77089b",
   "lastOpenFiles": [
-    "局域网通信（无数据库版）.pdf",
     "草稿纸.md",
+    "局域网通信（无数据库版）.pdf",
     "1-Java基础概念/1.13 线程.md",
     "1-Java基础概念/example.md",
     "-附件-/1.附件/线程的生命周期.png",
