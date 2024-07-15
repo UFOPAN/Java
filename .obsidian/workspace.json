@@ -14,12 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "1-Java基础概念/1.13 线程.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9de93126abe34c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md"
+                "file": "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md"
               }
             }
           }
@@ -149,12 +160,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ecb3ed0bbbded00e",
+  "active": "a9de93126abe34c0",
   "lastOpenFiles": [
+    "1-Java基础概念/1.13 线程.md",
+    "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
+    "Excalidraw",
     "草稿纸.md",
     "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/1.12 文件类.md",
-    "1-Java基础概念/1.13 线程.md",
     "1-Java基础概念/1.2 操作符.md",
     "-附件-/1.附件/迭代器.png",
     "-附件-/1.附件/二叉排序树 1.png",
@@ -190,8 +203,6 @@
     "2.静态关键字（重要）.md",
     "Excalidraw/Drawing 2024-07-08 10.28.10.excalidraw.md",
     "未命名.canvas",
-    "Excalidraw",
-    "-查阅-/0-资料网站/资料网站.md",
     "-查阅-/0-资料网站",
     "-查阅-/零散知识",
     "-查阅-/题目",
