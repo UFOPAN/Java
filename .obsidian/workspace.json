@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e997a1fedceb102a",
+        "id": "84eddb06543b688f",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb3ed0bbbded00e",
+            "id": "9b1cb6699848960c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1-Java基础概念/1.13 线程.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -149,10 +149,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ecb3ed0bbbded00e",
+  "active": "9b1cb6699848960c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
     "1-Java基础概念/1.13 线程.md",
+    "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
     "Excalidraw",
     "草稿纸.md",
     "1-Java基础概念/1.11 常用类.md",
