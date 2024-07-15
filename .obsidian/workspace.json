@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecb3ed0bbbded00e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Java基础概念/1.13 线程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.12 文件类.md",
+                "file": "1-Java基础概念/1.13 线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.12 文件类.md",
+                "file": "1-Java基础概念/1.13 线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.12 文件类.md"
+                "file": "1-Java基础概念/1.13 线程.md"
               }
             }
           }
@@ -149,11 +162,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2e0f61d3c5f6c7f0",
+  "active": "ecb3ed0bbbded00e",
   "lastOpenFiles": [
-    "1-Java基础概念/草稿纸.md",
-    "1-Java基础概念/1.12 文件类.md",
+    "草稿纸.md",
     "1-Java基础概念/1.11 常用类.md",
+    "1-Java基础概念/1.12 文件类.md",
+    "1-Java基础概念/1.13 线程.md",
     "1-Java基础概念/1.2 操作符.md",
     "-附件-/1.附件/迭代器.png",
     "-附件-/1.附件/二叉排序树 1.png",
@@ -191,7 +205,6 @@
     "未命名.canvas",
     "Excalidraw",
     "-查阅-/0-资料网站/资料网站.md",
-    "-查阅-/题目/基础题目.md",
     "-查阅-/0-资料网站",
     "-查阅-/零散知识",
     "-查阅-/题目",
