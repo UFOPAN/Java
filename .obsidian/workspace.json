@@ -11,9 +11,11 @@
             "id": "9b1cb6699848960c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "局域网通信（无数据库版）.pdf"
+                "file": "草稿纸.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "局域网通信（无数据库版）.pdf",
+                "file": "草稿纸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "局域网通信（无数据库版）.pdf",
+                "file": "草稿纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "局域网通信（无数据库版）.pdf"
+                "file": "草稿纸.md"
               }
             }
           }
@@ -149,8 +152,8 @@
   },
   "active": "9b1cb6699848960c",
   "lastOpenFiles": [
-    "草稿纸.md",
     "局域网通信（无数据库版）.pdf",
+    "草稿纸.md",
     "1-Java基础概念/1.13 线程.md",
     "1-Java基础概念/example.md",
     "-附件-/1.附件/线程的生命周期.png",
