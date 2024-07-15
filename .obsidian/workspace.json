@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -152,8 +151,9 @@
   },
   "active": "9b1cb6699848960c",
   "lastOpenFiles": [
-    "-附件-/1.附件/线程的生命周期.png",
+    "1-Java基础概念/example.md",
     "1-Java基础概念/1.13 线程.md",
+    "-附件-/1.附件/线程的生命周期.png",
     "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
     "Excalidraw",
     "草稿纸.md",
@@ -190,7 +190,6 @@
     "1-Java基础概念/Drawing 2024-07-09 12.57.36.excalidraw.md",
     "1.6 面向对象 - 类.md",
     "-查阅-/零散知识/Markdown语法.md",
-    "-附件-/1.附件/MVC.png",
     "2.静态关键字（重要）.md",
     "未命名.canvas",
     "-查阅-/0-资料网站",
