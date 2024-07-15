@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "草稿纸.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "草稿纸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "草稿纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md"
+                "file": "草稿纸.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +148,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9b1cb6699848960c",
+  "active": "211e08d9a619d769",
   "lastOpenFiles": [
-    "1-Java基础概念/example.md",
     "1-Java基础概念/1.13 线程.md",
+    "1-Java基础概念/example.md",
     "-附件-/1.附件/线程的生命周期.png",
     "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
     "Excalidraw",
