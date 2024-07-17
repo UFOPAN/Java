@@ -88,7 +88,7 @@ String 类 : public boolean equals(String s) 比较两个字符串内容是否�
 ### 2.5 String 方法小结
 
 String 类的常用方法 :
-[[]]
+[[../../1-Java基础概念/1.9 面向对象 - 字符串#3.3 String 类型常用 API|String类型常用API]]
 
 *   public boolean equals(Object anObject) 比较字符串的内容，严格区分大小写
 *   public boolean equalsIgnoreCase(String anotherString) 比较字符串的内容，忽略大小写
