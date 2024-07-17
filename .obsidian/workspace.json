@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-查阅-/函数/常用 API.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "接口",
+                "query": "包装类",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-查阅-/函数/常用 API.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-查阅-/函数/常用 API.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-查阅-/函数/常用 API.md"
+                "file": "1-Java基础概念/1.11 常用类.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,11 +149,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4c0c381cc7eb1e76",
+  "active": "211e08d9a619d769",
   "lastOpenFiles": [
+    "-查阅-/函数/常用 API.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
     "-查阅-/函数/String 类的常用方法.md",
-    "-查阅-/函数/常用 API.md",
     "-查阅-/函数/Java常见方法.md",
     "-查阅-/函数/用到的函数.md",
     "草稿纸.md",
