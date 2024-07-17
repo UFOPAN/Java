@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b1cb6699848960c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿纸.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6630d0aa4b77089b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "-查阅-/函数/常用 API.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "-查阅-/函数/常用 API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md",
+                "file": "-查阅-/函数/常用 API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.13 线程.md"
+                "file": "-查阅-/函数/常用 API.md"
               }
             }
           }
@@ -147,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,15 +150,18 @@
   },
   "active": "6630d0aa4b77089b",
   "lastOpenFiles": [
+    "-查阅-/函数/用到的函数.md",
+    "-查阅-/函数/常用 API.md",
     "草稿纸.md",
-    "局域网通信（无数据库版）.pdf",
+    "-查阅-/函数/常用API.md",
     "1-Java基础概念/1.13 线程.md",
+    "1-Java基础概念/1.12 文件类.md",
+    "局域网通信（无数据库版）.pdf",
     "1-Java基础概念/example.md",
     "-附件-/1.附件/线程的生命周期.png",
     "Excalidraw/Drawing 2024-07-15 09.45.20.excalidraw.md",
     "Excalidraw",
     "1-Java基础概念/1.11 常用类.md",
-    "1-Java基础概念/1.12 文件类.md",
     "1-Java基础概念/1.2 操作符.md",
     "-附件-/1.附件/迭代器.png",
     "-附件-/1.附件/二叉排序树 1.png",
@@ -186,7 +175,6 @@
     "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "1-Java基础概念/1.4 数组.md",
-    "-查阅-/函数/用到的函数.md",
     "-查阅-/函数/Java常见方法.md",
     "1-Java基础概念/1.11 日期类.md",
     "-查阅-/文件/LeetCode题解（java语言实现）.pdf",
@@ -203,7 +191,6 @@
     "-查阅-/零散知识/正则表达式.md",
     "1-Java基础概念/Drawing 2024-07-09 12.57.36.excalidraw.md",
     "1.6 面向对象 - 类.md",
-    "-查阅-/零散知识/Markdown语法.md",
     "未命名.canvas",
     "-查阅-/0-资料网站",
     "-查阅-/零散知识",
