@@ -88,6 +88,7 @@ String 类 : public boolean equals(String s) 比较两个字符串内容是否�
 ### 2.5 String 方法小结
 
 String 类的常用方法 :
+[[]]
 
 *   public boolean equals(Object anObject) 比较字符串的内容，严格区分大小写
 *   public boolean equalsIgnoreCase(String anotherString) 比较字符串的内容，忽略大小写
@@ -126,7 +127,7 @@ public String toString()：通过 toString() 就可以实现把 StringBuilder �
 String 转换为 StringBuilder  
 public StringBuilder(String s)：通过构造方法就可以实现把 String 转换为 StringBuilder
 
-4. 常用 API
+## 4 . 常用 API
 ---------
 
 ### 4.1 Math
@@ -203,7 +204,7 @@ System 类的常用方法
 > BigDecimal.ROUND_FLOOR 去尾法  
 > BigDecimal.ROUND_HALF_UP 四舍五入
 
-5. 包装类
+## 5 . 包装类
 ------
 
 ### 5.1 基本类型包装类
@@ -241,7 +242,7 @@ System 类的常用方法
 方式一：先将字符串数字转成 Integer，再调用 valueOf() 方法  
 方式二：通过 Integer 静态方法 parseInt() 进行转换
 
-6. 时间日期类
+## 6 . 时间日期类
 --------
 
 ### 6.1 Date 类
