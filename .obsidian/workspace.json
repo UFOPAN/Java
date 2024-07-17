@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69f789ef3749cc25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-查阅-/函数/常用 API.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
+                "file": "-查阅-/函数/常用 API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
+                "file": "-查阅-/函数/常用 API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md"
+                "file": "-查阅-/函数/常用 API.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,10 +162,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4c0c381cc7eb1e76",
+  "active": "69f789ef3749cc25",
   "lastOpenFiles": [
-    "-查阅-/函数/常用 API.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
+    "-查阅-/函数/常用 API.md",
     "-查阅-/零散知识/Markdown语法.md",
     "1-Java基础概念/1.11 常用类.md",
     "-查阅-/函数/String 类的常用方法.md",
