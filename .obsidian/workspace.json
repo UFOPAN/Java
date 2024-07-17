@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6630d0aa4b77089b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c0c381cc7eb1e76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
-                "mode": "source",
+                "file": "-查阅-/函数/常用 API.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
+                "file": "-查阅-/函数/常用 API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md",
+                "file": "-查阅-/函数/常用 API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.9 面向对象 - 字符串.md"
+                "file": "-查阅-/函数/常用 API.md"
               }
             }
           }
@@ -159,12 +147,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6630d0aa4b77089b",
+  "active": "4c0c381cc7eb1e76",
   "lastOpenFiles": [
-    "-查阅-/函数/常用 API.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
-    "-查阅-/函数/Java常见方法.md",
     "-查阅-/函数/String 类的常用方法.md",
+    "-查阅-/函数/常用 API.md",
+    "-查阅-/函数/Java常见方法.md",
     "-查阅-/函数/用到的函数.md",
     "草稿纸.md",
     "-查阅-/函数/常用API.md",
