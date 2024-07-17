@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "400c8f7cb80ee3a3",
@@ -148,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +164,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "69f789ef3749cc25",
+  "active": "211e08d9a619d769",
   "lastOpenFiles": [
     "-查阅-/函数/常用 API.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
