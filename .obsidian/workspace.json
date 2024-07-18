@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md",
-                "mode": "preview",
+                "file": "1-Java基础概念/1.4 数组.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md",
+                "file": "1-Java基础概念/1.4 数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md",
+                "file": "1-Java基础概念/1.4 数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.11 常用类.md"
+                "file": "1-Java基础概念/1.4 数组.md"
               }
             }
           }
@@ -152,8 +151,12 @@
   "active": "f50de837ea7d5c15",
   "lastOpenFiles": [
     "1-Java基础概念/1.5 方法.md",
+    "1-Java基础概念/1.6 面向对象 - 类.md",
+    "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
+    "1-Java基础概念/1.9 面向对象 - 字符串.md",
     "1-Java基础概念/1.10 正则表达式.md",
+    "1-Java基础概念/1.4 数组.md",
     "1-Java基础概念/1.11 常用类.md",
     "-附件-/1.附件/类型转换.png",
     "-附件-/1.附件/静态属性的理解.png",
@@ -161,7 +164,6 @@
     "-附件-/1.附件/二叉排序树 1.png",
     "-附件-/1.附件/二叉排序树.png",
     "-附件-/1.附件/迭代器.png",
-    "1-Java基础概念/1.9 面向对象 - 字符串.md",
     "-查阅-/函数/常用 API.md",
     "-查阅-/零散知识/Markdown语法.md",
     "-查阅-/函数/String 类的常用方法.md",
@@ -178,9 +180,6 @@
     "Excalidraw",
     "1-Java基础概念/1.2 操作符.md",
     "-附件-/1.附件/集合.png",
-    "1-Java基础概念/1.7 面向对象 - 多态.md",
-    "1-Java基础概念/1.6 面向对象 - 类.md",
-    "1-Java基础概念/1.4 数组.md",
     "1-Java基础概念/1.11 日期类.md",
     "-查阅-/文件/LeetCode题解（java语言实现）.pdf",
     "-查阅-/文件/Java基础核心总结.pdf",
