@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.4 数组.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.4 数组.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.4 数组.md",
+                "file": "1-Java基础概念/1.11 常用类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.4 数组.md"
+                "file": "1-Java基础概念/1.11 常用类.md"
               }
             }
           }
@@ -148,15 +148,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d73a2836ab05b864",
+  "active": "f50de837ea7d5c15",
   "lastOpenFiles": [
+    "1-Java基础概念/1.12 文件类.md",
+    "1-Java基础概念/1.13 线程.md",
+    "1-Java基础概念/1.4 数组.md",
     "1-Java基础概念/1.5 方法.md",
     "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
     "1-Java基础概念/1.10 正则表达式.md",
-    "1-Java基础概念/1.4 数组.md",
     "1-Java基础概念/1.11 常用类.md",
     "-附件-/1.附件/类型转换.png",
     "-附件-/1.附件/静态属性的理解.png",
@@ -171,8 +173,6 @@
     "-查阅-/函数/用到的函数.md",
     "草稿纸.md",
     "-查阅-/函数/常用API.md",
-    "1-Java基础概念/1.13 线程.md",
-    "1-Java基础概念/1.12 文件类.md",
     "局域网通信（无数据库版）.pdf",
     "1-Java基础概念/example.md",
     "-附件-/1.附件/线程的生命周期.png",
