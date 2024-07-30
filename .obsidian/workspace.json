@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/1.7 面向对象 - 多态.md",
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/1.7 面向对象 - 多态.md",
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/1.7 面向对象 - 多态.md",
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/1.7 面向对象 - 多态.md"
+                "file": "1-Java基础概念/1.8 面向对象 - 封装.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "f50de837ea7d5c15",
   "lastOpenFiles": [
+    "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "1-Java基础概念/1.6 面向对象 - 类.md",
     "1-Java基础概念/1.5 方法.md",
@@ -160,7 +161,6 @@
     "1-Java基础概念/1.11 常用类.md",
     "1-Java基础概念/1.12 文件类.md",
     "1-Java基础概念/1.13 线程.md",
-    "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.9 面向对象 - 字符串.md",
     "1-Java基础概念/1.10 正则表达式.md",
     "-附件-/1.附件/类型转换.png",
