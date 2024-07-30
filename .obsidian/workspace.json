@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e42d456e08bebb2a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f50de837ea7d5c15",
+  "active": "e42d456e08bebb2a",
   "lastOpenFiles": [
     "1-Java基础概念/1.12 文件类.md",
     "1-Java基础概念/1.13 线程.md",
