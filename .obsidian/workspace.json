@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java基础概念/未命名.md",
-                "mode": "preview",
+                "file": "1-Java基础概念/课程相关事宜.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java基础概念/未命名.md",
+                "file": "1-Java基础概念/课程相关事宜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java基础概念/未命名.md",
+                "file": "1-Java基础概念/课程相关事宜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java基础概念/未命名.md"
+                "file": "1-Java基础概念/课程相关事宜.md"
               }
             }
           }
@@ -165,7 +165,7 @@
   "active": "4a75bc31cd7643bd",
   "lastOpenFiles": [
     "1-Java基础概念/1.1 数据类型.md",
-    "1-Java基础概念/未命名.md",
+    "1-Java基础概念/课程相关事宜.md",
     "1-Java基础概念/1.8 面向对象 - 封装.md",
     "1-Java基础概念/1.7 面向对象 - 多态.md",
     "1-Java基础概念/1.6 面向对象 - 类.md",
